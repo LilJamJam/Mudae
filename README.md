@@ -1,5 +1,5 @@
 # MudaeDB
-The home of my Mudae files that relate to the custom database that I made from scraping the database of the bot Mudae from Discord. These files are intended to assist users contribute to the Mudae database via polls.
+The home of my files that relate to the custom database that I made from scraping the database of the bot Mudae from Discord. These files are intended to assist users contribute to the Mudae database via polls.
 
 A short list of files I maintain:
 - OneBundle - All series that are attached to one bundle
