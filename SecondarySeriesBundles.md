@@ -1,4 +1,4 @@
-# Empty Series and Bundles
+# Secondary Series and Bundles
 
 The following is a list of series and bundles on Mudae that have no main characters.
 
