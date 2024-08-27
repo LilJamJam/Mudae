@@ -7,4 +7,6 @@ A short list of files I maintain:
 
 ### I've now completed a major upgrade of my personal Mudae DB that now includes tags and aliases.
 
-Let me know of any ideas that can help people contribute to Mudae, or other things that you're curious about.
+Let me know of any ideas that can help people contribute to Mudae, or other things that you're curious to see.
+
+Discord: liljamjam
