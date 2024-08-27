@@ -227,7 +227,7 @@ Daddy Love<br>
 Dance Dance Revolution: Mario Mix<br>
 Danger Force<br>
 Daniel Tiger's Neighborhood<br>
-Danmaku Amanojaku ~ Impossible Spell Card<br>
+Danmaku Amanojaku \~ Impossible Spell Card<br>
 Daredevil (2003)<br>
 Dark Lotus<br>
 Dark Phoenix<br>
@@ -521,7 +521,7 @@ GothBoiClique<br>
 Gotham<br>
 Grand Theft Auto: Liberty City Stories<br>
 Gravediggaz<br>
-Great Fairy Wars ~ Touhou Sangetsusei<br>
+Great Fairy Wars \~ Touhou Sangetsusei<br>
 Green Bullfrog<br>
 Green Jellÿ<br>
 Green Lantern (2011)<br>
@@ -1017,7 +1017,7 @@ No Game No Life: Zero<br>
 Not Another D&D Podcast: Hot Boy Summer<br>
 OFWGKTA<br>
 Oddworld: Soulstorm<br>
-Oide yo! Mizuryuu Kei Land ~Kazoku to Sukebe na Theme Park!~<br>
+Oide yo! Mizuryuu Kei Land \~Kazoku to Sukebe na Theme Park!\~<br>
 One Direction<br>
 One Piece Film: Strong World<br>
 Ookami Mio Ch.<br>
@@ -1088,7 +1088,7 @@ Princess Peach: Showtime!<br>
 Prisoner of Punch<br>
 Probot<br>
 Professor Layton and the New World of Steam<br>
-Puchi Eva ~EVANGELION@SCHOOL~<br>
+Puchi Eva \~EVANGELION@SCHOOL\~<br>
 Puff Daddy & The Family<br>
 Punch-Out!! (Arcade)<br>
 Punisher: War Zone<br>
@@ -1106,7 +1106,7 @@ Puyo Puyo Tetris 2<br>
 Puyo Puyo Tsu<br>
 Puyo Puyo! 15th Anniversary<br>
 Puyo Puyo!! 20th Anniversary<br>
-Puyo Puyo~n<br>
+Puyo Puyo\~n<br>
 Puzzle & Dragons: Super Mario Bros. Edition<br>
 Queen Charlotte: A Bridgerton Story<br>
 Queens of the Stone Age<br>
@@ -1129,7 +1129,7 @@ Record of Lodoss War: Deedlit in Wonder Labyrinth<br>
 Red Vox<br>
 Reggie's Bakery<br>
 RetroMania Wrestling<br>
-Revenge Room ~Jutai o Kyouyou Sareru Chikashitsu~<br>
+Revenge Room \~Jutai o Kyouyou Sareru Chikashitsu\~<br>
 Revolutionary Girl Utena: Story of the Someday Revolution<br>
 Rey Mysterio vs The Darkness<br>
 Rich Gang<br>
@@ -1154,7 +1154,7 @@ Ruined King<br>
 SCP – Containment Breach<br>
 SISTAR<br>
 SLEEPLESS Nocturne<br>
-SLEEPLESS ~A Midsummer Night's Dream~<br>
+SLEEPLESS \~A Midsummer Night's Dream\~<br>
 SNK vs. Capcom: SVC Chaos<br>
 Saber + Zenkaiger: Super Hero Senki<br>
 Sabrina: Secrets of a Teenage Witch<br>
@@ -1166,7 +1166,7 @@ Sakamata Chloe Ch.<br>
 Saki Achiga-hen: Episode of Side-A<br>
 Sakura-iro Dreamer<br>
 Sakura Miko Ch.<br>
-Sakura Taisen 4 ~Koiseyo Otome~<br>
+Sakura Taisen 4 \~Koiseyo Otome\~<br>
 Sam & Cat<br>
 Sam & Max Hit the Road<br>
 Sam Gopal<br>
@@ -1518,7 +1518,7 @@ Top Gun: Maverick<br>
 ToppDogg<br>
 Total Impact Wrestling<br>
 Total War: Warhammer<br>
-Touhou Bunkachou ~ Shoot the Bullet<br>
+Touhou Bunkachou \~ Shoot the Bullet<br>
 Touhou Spell Bubble<br>
 Town of Salem 2<br>
 Trace: Kasouken Houi Kenkyuuin no Tsuisou<br>
@@ -1682,7 +1682,7 @@ Zee<br>
 hololive Alternative<br>
 hololive ERROR<br>
 myPOPGOES<br>
-planetarian ~Snow Globe~<br>
+planetarian \~Snow Globe\~<br>
 
 ## Bundles (72)
 
