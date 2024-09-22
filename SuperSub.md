@@ -4,11 +4,11 @@
 
 General ($disableblock-ed) bundles (eg: Anime, Manga...) are excluded from calculations.
 
-Number of known pairs: 9086 => **10273**
+Number of known pairs: 9086 => **10194**
 
-Number of unique super-bundles: 1207 => **1322** (\~27.7% of all bundles)
+Number of unique super-bundles: 1207 => **1320** (\~27.7% of all bundles)
 
-Number of unique sub-bundles: 2889 => **3110** (\~65.3%)
+Number of unique sub-bundles: 2889 => **3106** (\~65.3%)
 
 ## All Pairs
 
@@ -925,7 +925,6 @@ Riot Games | League of Legends Series
 Robotech | Super Dimension Series
 Rockstar Games | Grand Theft Auto \ Grand Theft Auto: The Trilogy \ Red Dead Redemption Series
 Roguelike Games | Chocobo Series \ Darkest Dungeon Series \ Hades Series \ Omega Labyrinth Series \ Pokémon Mystery Dungeon \ Risk of Rain Series \ Roguelike Deckbuilder Games \ Shiren the Wanderer Series \ Spelunky Series
-Romance Genre | Alphatart's Works \ Angelique Series \ B's-LOG Bunko \ Be My Princess Series \ Beemoov \ BF (Beta) Series \ Cheritz \ Ciagram Co, Ltd \ Code: Realize Series \ Collar×Malice Series \ Comic Pool \ Cupid Parasite Series \ Dalseul's Works \ Destiny Ninja Series \ Do Tol Hwang's Works \ Dulcet Games \ Eun-chae Go's Works \ Eunhyang Ja's Works \ GLLIMTOON \ Gwon Gyeoeul's Works \ HÆON's Works \ Hanamura Mai's Art \ Haron Lee's Works \ Hee-jin Bae's Works \ Hiiro no Kakera Series \ honeybee \ Jaerim's Art \ Jagae's Art \ Jagyum's Works \ KAKON's Art \ Kalmia8 \ Kang Ki's Art \ Karino Takatsu's Works \ Kazuaki's Art \ Ken ga Kimi Franchise \ Kim Myeongmi's Art \ Kinami Yuki's Art \ Kuni no Alice Series \ Kuroyuki's Art \ LEE Hye's Works \ Lisabel's Works \ Maru Comics \ Miko's Art \ Mokgamgi's Works \ Nagaoka's Art \ NARAK's Art \ Neoromance \ Neptune \ Otome Games \ Otome-Based Series \ Plutus's Works \ PrettyBusy \ RinA's Works \ RiRi's Art \ RS Media \ RYU HEON's Works \ Saku's Works \ Shall we date? \ Shinigami Kareshi Series \ Shiro Yamada's Art \ Sihyun Moon's Works \ Spice&Kitty's Works \ Story of Eroolia \ SWAN's Works \ Teita's Art \ The Cl Book \ To LOVE-Ru Series \ Tokimeki Memorial Girl's Side \ Usuba Kagerou's Art \ Viewcommz \ Visuki \ Wand of Fortune Series \ Yoon Hawol's Works \ Yume Series \ Yumyum's Art \ Yuuya's Art \ Yuzuki Karu's Art
 Romance of the Three Kingdoms Media | Dynasty Warriors \ Koihime†Musou Series
 Rovio Entertainment | Angry Birds Trilogy
 RPG Maker 2000 Games | Segawa
@@ -1003,7 +1002,6 @@ Silky's Plus | Silky Engine Games
 Simulation Games | Civilization \ Destiny Ninja Series \ Digimon World Series \ Diner Dash Series \ Dulcet Games \ Farming Simulator Games \ GoatBread \ Harvest Moon Series \ HuniePot \ Idol Hands Series \ Jewelpet Series \ Kitfox Games \ Life Simulation Games \ Lunaris Games \ Microprose \ My Time Series \ Nix Hydra \ Our Life Series \ Pokémon Snap Series \ Princess Maker Series \ Rune Factory Series \ Sad Panda Studios \ Slime Rancher Series \ SnaccPop Studios \ Sucker for Love \ Tokimeki Memorial Girl's Side \ Trauma Center Series \ Wii Sports Series
 Sitcoms | Beavis and Butt-Head Franchise \ Family Guy Series \ iCarly Series \ Matt Groening's Works \ That's So Raven Series \ VICTORiOUS Series
 Slapstick Comedy | Gremlins Series \ Space Jam Series
-Slice of Life Genre | Takagi-san Series \ Tsukumizu's Works
 Sneaker Bunko | Mondaiji-tachi Series
 SNES Games | Dragon Ball Z: Super Butoden Series \ Dragon Ball Z: Super Gokuden \ Jugdral Series \ Lufia Series \ Mario Discovery Series \ Puzzle League Series \ Super Mario Advance Series \ Super NES Classic Edition \ The Software Toolworks
 SNK | Fatal Fury \ King of Fighters Universe \ Nazca Corporation \ Sacnoth \ Samurai Shodown \ The King of Fighters \ The King of Fighters EX Series \ The Last Blade Series
@@ -1599,7 +1597,6 @@ red-A's Works | Jake's Art
 REDICE STUDIO | Swingbat
 Retro Studios | Metroid Prime: Trilogy
 Rieko Kodama's Works | 7th Dragon Series
-Romance Genre | Alphatart's Works \ Angelique Series \ B's-LOG Bunko \ Be My Princess Series \ Beemoov \ BF (Beta) Series \ Cheritz \ Ciagram Co, Ltd \ Code: Realize Series \ Collar×Malice Series \ Comic Pool \ Cupid Parasite Series \ Dalseul's Works \ Destiny Ninja Series \ Do Tol Hwang's Works \ Dulcet Games \ Eun-chae Go's Works \ Eunhyang Ja's Works \ GLLIMTOON \ Gwon Gyeoeul's Works \ HÆON's Works \ Hanamura Mai's Art \ Haron Lee's Works \ Hee-jin Bae's Works \ Hiiro no Kakera Series \ honeybee \ Jaerim's Art \ Jagae's Art \ Jagyum's Works \ KAKON's Art \ Kalmia8 \ Kang Ki's Art \ Karino Takatsu's Works \ Kazuaki's Art \ Ken ga Kimi Franchise \ Kim Myeongmi's Art \ Kinami Yuki's Art \ Kuni no Alice Series \ Kuroyuki's Art \ LEE Hye's Works \ Lisabel's Works \ Maru Comics \ Miko's Art \ Mokgamgi's Works \ Nagaoka's Art \ NARAK's Art \ Neoromance \ Neptune \ Otome Games \ Otome-Based Series \ Plutus's Works \ PrettyBusy \ RinA's Works \ RiRi's Art \ RS Media \ RYU HEON's Works \ Saku's Works \ Shall we date? \ Shinigami Kareshi Series \ Shiro Yamada's Art \ Sihyun Moon's Works \ Spice&Kitty's Works \ Story of Eroolia \ SWAN's Works \ Teita's Art \ The Cl Book \ To LOVE-Ru Series \ Tokimeki Memorial Girl's Side \ Usuba Kagerou's Art \ Viewcommz \ Visuki \ Wand of Fortune Series \ Yoon Hawol's Works \ Yume Series \ Yumyum's Art \ Yuuya's Art \ Yuzuki Karu's Art
 Rovio Entertainment | Angry Birds Trilogy
 RPG Maker Games | Kanawo \ RPG Maker MZ Games \ STUDIO INVESTIGRAVE
 RPG Maker MV Games | STUDIO INVESTIGRAVE
@@ -1624,7 +1621,6 @@ Shueisha | Eiichiro Oda's Works \ Shounen Jump Rookie \ To LOVE-Ru Series
 Side-scrolling Games | Balloon Fight Series \ Castlevania Dominus Collection \ Contra Series \ OXENFREE Series \ Sonic & Tails Series \ Sonic Colors Series \ Sonic Runners Series
 SiglusEngine Games | H.I design office
 Simulation Games | Diner Dash Series \ My Time Series \ Slime Rancher Series
-Slice of Life Genre | Takagi-san Series \ Tsukumizu's Works
 SNK | Sacnoth
 Sonic Racing Games | Backbone Entertainment \ Sonic & SEGA All-Stars Racing Series \ Sonic Drift Series \ Sonic Racing Series \ Sonic Riders Series \ Sonic Rivals Series
 Sonic Racing Series | Sonic & SEGA All-Stars Racing Series
