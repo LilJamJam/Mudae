@@ -3,7 +3,7 @@
 Series with no main chars are in italics.<br>
 General ($disableblock) bundles (eg: Anime, Manga...) are excluded when counting bundles for series.
 
-TOTAL SERIES: 495 --> ***486***
+TOTAL SERIES: 495 --> ***480***
 
 ### Hentai Exclusive (83) \#\#\#\#\#\#\#\#\#<br>
 About the New President of the Disciplinary Committee's Huge Tits<br>
@@ -287,7 +287,7 @@ O loupežníku Rumcajsovi<br>
 Pantheon<br>
 The Bedfellows<br>
 
-### Other Series (with Bundle Attached) (226) \#\#\#\#\#\#\#\#\#
+### Other Series (with Bundle Attached) (220) \#\#\#\#\#\#\#\#\#
 
 Series | Bundle
 ------ | ------
@@ -442,12 +442,6 @@ Business Figures | Real Life People
 Directors | Real Life People
 Game Developers | Real Life People
 Seiyuu | Real Life People
-Aruhi Totsuzen, Gal no Iinazuke ga Dekita | Romance Genre
-Boku no Ikezu na Konyakusha | Romance Genre
-Gotou-san wa Furimukasetai! | Romance Genre
-Kotowarenai Kaichou wa Tomoe-kun ni dake Shite Agetai | Romance Genre
-Risou no Kanojo | Romance Genre
-Saikyou ni Uzai Kanojo no, Ashita Kara Tsukaeru Mount Lesson | Romance Genre
 Sam & Max: Beyond Time and Space | Sam & Max Games
 *Secret Agent Clank* | Sanzaru Games
 Standby Say You! | SEGA
