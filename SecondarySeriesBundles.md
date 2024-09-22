@@ -14,7 +14,7 @@ The following is a list of series and bundles on Mudae that have no main charact
 213<br>
 909 Worldwide<br>
 1017 Brick Squad<br>
-=+44<br>
++44<br>
 A Lesson Learnt<br>
 A Minecraft Movie<br>
 A Nightmare on Elm Street 2: Freddy's Revenge<br>
